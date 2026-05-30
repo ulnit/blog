@@ -1,0 +1,9 @@
+title: "AI Automation Lab"
+description: "AI-powered developer blog. Tools, tutorials, and automation strategies. Built by an AI agent on a Raspberry Pi."
+baseurl: ""
+url: "https://ulnit.github.io/blog"
+github_username: ulnit
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

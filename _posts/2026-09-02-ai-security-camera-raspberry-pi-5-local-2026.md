@@ -150,7 +150,7 @@ Beyond the obvious privacy argument, self-hosting has practical advantages cloud
 - **Custom intelligence**: want alerts only for "person carrying a box"? With your own pipeline, that's a weekend project, not a feature request
 - **Data ownership**: every frame stays on hardware you control
 
-The one real trade-off: you're responsible for uptime. That's mitigated by Docker's `restart=unless-stopped`, a weekly `apt` cron job, and health-check pings — the same self-hosting hygiene I covered in my [self-hosted automation comparison](/blog/2026/08/26/self-hosted-automation-n8n-vs-node-red-vs-cron-2026.html).
+The one real trade-off: you're responsible for uptime. That's mitigated by Docker's `restart=unless-stopped`, a weekly `apt` cron job, and health-check pings — the same self-hosting hygiene I covered in my [self-hosted automation comparison](/blog/automation/self-hosted/raspberry-pi/devops/2026-08-26/self-hosted-automation-n8n-vs-node-red-vs-cron-2026.html).
 
 ## Going Further: Vision LLMs on the Pi
 

@@ -80,7 +80,7 @@ A full ATO is a critical on nearly every program. Single findings rarely get you
 
 Individually modest, but takeover candidates are trivially automatable and edge assets are constantly forgotten. Pointing domains at decommissioned Heroku, S3, Azure, GitHub Pages, and CI systems still works daily.
 
-**Volume strategy:** automate discovery with CT-log mining (see my [recon mastery guide](/2026/07/15/bug-bounty-recon-mastery-2026/) for the full pipeline), fingerprint dangling records with `subjack`/`nuclei`, and re-check targets weekly — new decommissions appear constantly. A nightly cron job on a [Raspberry Pi](/2026/06/24/build-24-7-ai-server-raspberry-pi-2026/) or a $4 [DigitalOcean droplet ($200 free credit)](https://m.do.co/c/ulnit) can monitor thousands of domains for free.
+**Volume strategy:** automate discovery with CT-log mining (see my [recon mastery guide](/blog/bug-bounty/security/reconnaissance/tutorial/2026/07/15/bug-bounty-recon-mastery-2026.html) for the full pipeline), fingerprint dangling records with `subjack`/`nuclei`, and re-check targets weekly — new decommissions appear constantly. A nightly cron job on a [Raspberry Pi](/blog/raspberry-pi/ai/tutorial/2026/06/24/build-24-7-ai-server-raspberry-pi-2026.html) or a $4 [DigitalOcean droplet ($200 free credit)](https://m.do.co/c/ulnit) can monitor thousands of domains for free.
 
 ## 7. Client-Side Prototype Pollution & DOM-Based Bugs — $500 to $5,000
 
@@ -95,7 +95,7 @@ With server-side templates locked down, bugs moved to the browser. Prototype pol
 Two things the tables above don't tell you:
 
 1. **Program variance dominates bug-class variance.** A mediocre IDOR on a well-funded fintech pays more than a beautiful SSRF on a program with $250 caps. Sort programs by bounty range *first*, bug class second.
-2. **Report quality is a multiplier.** Reproduction steps, impact framing, and clean PoCs move borderline bugs up a severity tier. My [beginner's guide](/2026/06/17/how-to-start-bug-bounty-hunting-2026/) covers report structure in detail.
+2. **Report quality is a multiplier.** Reproduction steps, impact framing, and clean PoCs move borderline bugs up a severity tier. My [beginner's guide](/blog/bug-bounty/security/tutorial/2026/06/17/how-to-start-bug-bounty-hunting-2026.html) covers report structure in detail.
 
 ## Building Your Hunting Stack
 
@@ -123,8 +123,8 @@ Start with one program this week. Map its features. Attack the trust boundaries.
 
 ### Related Posts
 
-- [How to Start Bug Bounty Hunting in 2026 — A Beginner's Guide](/2026/06/17/how-to-start-bug-bounty-hunting-2026/)
-- [Bug Bounty Recon Mastery 2026 — Advanced Techniques](/2026/07/15/bug-bounty-recon-mastery-2026/)
-- [Build a 24/7 AI Server on a $35 Raspberry Pi](/2026/06/24/build-24-7-ai-server-raspberry-pi-2026/)
+- [How to Start Bug Bounty Hunting in 2026 — A Beginner's Guide](/blog/bug-bounty/security/tutorial/2026/06/17/how-to-start-bug-bounty-hunting-2026.html)
+- [Bug Bounty Recon Mastery 2026 — Advanced Techniques](/blog/bug-bounty/security/reconnaissance/tutorial/2026/07/15/bug-bounty-recon-mastery-2026.html)
+- [Build a 24/7 AI Server on a $35 Raspberry Pi](/blog/raspberry-pi/ai/tutorial/2026/06/24/build-24-7-ai-server-raspberry-pi-2026.html)
 
 *Disclosure: This post contains affiliate links (DigitalOcean, Vultr) and links to my own digital products on LemonSqueezy. Purchases through these links support this blog at no extra cost to you.*

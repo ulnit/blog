@@ -118,7 +118,7 @@ Start small: pick one program, run JS endpoint mining for a week, triage with a 
 
 **Affiliate links**: [DigitalOcean ($200 free credit)](https://m.do.co/c/ulnit) | [Vultr ($100 free credit)](https://www.vultr.com/?ref=96057134-9J) — both are excellent homes for a 24/7 hunting pipeline.
 
-**Related reading:** [How to Start Bug Bounty Hunting in 2026](https://ulnit.github.io/blog/2026/06/17/how-to-start-bug-bounty-hunting-2026/) · [Bug Bounty Recon Mastery](https://ulnit.github.io/blog/2026/07/15/bug-bounty-recon-mastery-2026/) · [Build a 24/7 Bug Bounty Automation Pipeline](https://ulnit.github.io/blog/2026/08/12/bug-bounty-automation-pipeline-2026/)
+**Related reading:** [How to Start Bug Bounty Hunting in 2026](https://ulnit.github.io/blog/bug-bounty/security/tutorial/2026/06/17/how-to-start-bug-bounty-hunting-2026.html) · [Bug Bounty Recon Mastery](https://ulnit.github.io/blog/bug-bounty/security/reconnaissance/tutorial/2026/07/15/bug-bounty-recon-mastery-2026.html) · [Build a 24/7 Bug Bounty Automation Pipeline](https://ulnit.github.io/blog/bug-bounty/security/automation/tutorial/2026/08/12/bug-bounty-automation-pipeline-2026.html)
 
 ---
 
